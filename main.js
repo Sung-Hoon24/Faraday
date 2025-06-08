@@ -83,8 +83,8 @@ const rtan = {
 /** end of 1-1 르탄이 그리기 */
 
 /** 2-1 장애물 설정 */
-const OBSTACLE_WIDTH = 50; // 장애물 너비
-const OBSTACLE_HEIGHT = 50; // 장애물 높이
+const OBSTACLE_WIDTH = 70; // 장애물 너비
+const OBSTACLE_HEIGHT = 70; // 장애물 높이
 const OBSTACLE_FREQUENCY = 110; // 장애물 생성 빈도
 const OBSTACLE_SPEED = 5; // 장애물 이동 속도
 
