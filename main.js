@@ -43,13 +43,13 @@ const restartImage = new Image();
 restartImage.src = "./images/restart.png";
 // (5) 달리는 르탄이 A
 const rtanAImage = new Image();
-rtanAImage.src = "./images/하경달리기.png";
+rtanAImage.src = "./images/하경1.png";
 // (6) 달리는 르탄이 B
 const rtanBImage = new Image();
-rtanBImage.src = "./images/하경달리기.png";
+rtanBImage.src = "./images/하경1.png";
 // (7) 게임 오버 르탄이
 const rtanCrashImage = new Image();
-rtanCrashImage.src = "./images/하경1.png";
+rtanCrashImage.src = "./images/하경달리기.png";
 // (8) 장애물
 const obstacleImage = new Image();
 obstacleImage.src = "./images/익룡.png";
